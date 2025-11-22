@@ -14,6 +14,5 @@ for n in numbers:
         even_count += 1
     else:
         odd_count += 1
-
-print("Count of Even Numbers:", even_count)
-print("Count of Odd Numbers:", odd_count)
+print("Count of Even Numbers:",even_count)
+print("Count of Odd Numbers:",odd_count)
